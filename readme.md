@@ -72,7 +72,7 @@ This is a simple test project demonstrating how to build a bilingual website usi
     ```bash
     cd frontend
     npm install
-    npm start
+    npm run dev
     ```
 4. مرورگر را باز کرده و به `http://localhost:3000` بروید و دکمه تغییر زبان را تست کنید
 
